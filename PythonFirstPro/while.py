@@ -4,7 +4,7 @@
 
 # 输出1-100 之间的数据
 index = 1
-while index <= 100:  
+while index <= 100:
     print(index)
     index += 1
     pass
