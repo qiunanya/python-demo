@@ -5,7 +5,7 @@ strB = '我 用 python'
 print('拼接 %s' % (strA+strB))
 
 # 列表合并
-listA = list(range(6))  
+listA = list(range(6))
 listB = list(range(4))
 print('列表合并 %s' % (listA + listB))
 
