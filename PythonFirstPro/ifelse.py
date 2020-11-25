@@ -21,3 +21,11 @@ if score > 60:
 else:
     print('成绩不合格')
     pass
+
+# 三元表达式
+
+numer = 5
+
+value = 8 if 5 > 3 else 15
+
+print("三元表达式值 =》", value)
